@@ -1,0 +1,6 @@
+package com.example.qigelia
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
